@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-image: url(chaco.webp);
+    background-repeat: no-repeat;
+    background-size: 1290px 700px;
+}
+#text1{
+    color: black;
+    font-size: 80px;
+    margin-top: 25px;
+    margin-left: 90px;
+}
+#text2{
+    color: black;
+    font-size: 45px;
+    margin-left: 165px ;
+}
+button{
+    height: 25px;
+    width: 55px;
+    background-color: burlywood ;
+    border-radius: 80px;
+}
+button a{
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+button:hover{
+    background-color:pink;
+}
